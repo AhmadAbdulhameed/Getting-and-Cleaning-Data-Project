@@ -12,7 +12,7 @@ The owner of the repository is myself, Ahmad Abdulhameed, and the datasets used 
 
 ## Files
 
-The dataset contains the following files:
+The repository contains the following files:
 
 * **CodeBook.md**: explains, in detail, the methodology used to extract the data and clean the data  
 * **run_analysis.R**: a file containing the R script that performs the following functions:
